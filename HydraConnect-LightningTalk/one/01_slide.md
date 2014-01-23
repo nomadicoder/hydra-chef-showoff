@@ -55,6 +55,8 @@
 * Digital Ocean Droplet
 * "Chef-Ready" with Ruby 2.0.0
 
+[http://youtu.be/QaqfXHuA4pk](http://youtu.be/QaqfXHuA4pk)
+
 !SLIDE
 
 # Remaining work
