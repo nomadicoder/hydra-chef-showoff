@@ -1,23 +1,13 @@
 !SLIDE 
-# Hydra with Chef #
-
-
-
-!SLIDE 
+# Deploying with Chef #
 
 # Steven Ng #
 ## Chinese Historical Society of Southern California ##
-## SharedIR ##
+## HydraConnect 2014 ##
 
 !SLIDE
 
-## Chinese Historical Society of Southern California ##
-
-* Organized in November 1975
-* Bring together people with a mutual interest in the important history and historical role 
-of Chinese and Chinese Americans in southern California;
-* Pursue, preserve and communicate knowledge of this history
-* Promote the heritage of the Chinese and Chinese American community 
+# SharedIR #
 
 !SLIDE
 
@@ -52,18 +42,18 @@ of Chinese and Chinese Americans in southern California;
 
 !SLIDE
 
-# Video Demo
-
-* Digital Ocean Droplet
-* "Chef-Ready" with Ruby 2.0.0
-
-!SLIDE
-
 # Provisioning
 
 * Based on Curation Experts Hydradam GitHub Production Installation
 * Chef Fedora Cookbook
 * *Chef Curate Cookbook*
+
+!SLIDE
+
+# Video Demo
+
+* Digital Ocean Droplet
+* "Chef-Ready" with Ruby 2.0.0
 
 !SLIDE
 
